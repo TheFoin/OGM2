@@ -10,8 +10,8 @@ from bs4 import BeautifulSoup
 import time
 # Costanti
 
-LINKMFP = "https://tuonome.hf.space"
-PASSWORD = "tuapassword"
+LINKMFP = "https://thepuzo-prova3.hf.space"
+PASSWORD = "Sentenia"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 REFERER = "forcedtoplay.xyz"
