@@ -10,10 +10,10 @@ from bs4 import BeautifulSoup
 import time
 # Costanti
 
-LINKMFP = "https://thepuzo-prova3.hf.space"
+LINKMFP = "https://thepuzo-ogm3.hf.space"
 PASSWORD = "Sentenia"
 
-PROXY = f"{https://thepuzo-prova3.hf.space}/proxy/hls/manifest.m3u8?api_password={Sentenia}&d="
+PROXY = f"{https://thepuzo-ogm3.hf.space}/proxy/hls/manifest.m3u8?api_password={Sentenia}&d="
 REFERER = "forcedtoplay.xyz"
 ORIGIN = "forcedtoplay.xyz"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
