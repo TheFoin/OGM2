@@ -3,10 +3,10 @@ import json
 import re
 import os
 
-LINKMFP = "https://thepuzo-prova3.hf.space"
+LINKMFP = "https://thepuzo-ogm3.hf.space"
 PASSWORD = "Sentenia"
 
-PROXY = f"{https://thepuzo-prova3.hf.space}/proxy/hls/manifest.m3u8?api_password={Sentenia}&d="
+PROXY = f"{https://thepuzo-ogm3.hf.space}/proxy/hls/manifest.m3u8?api_password={Sentenia}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 USR = "TheFoin"
 REPO = "OGM2"
