@@ -6,7 +6,7 @@ import os
 LINKMFP = "https://thepuzo-ogm3.hf.space"
 PASSWORD = "Sentenia"
 
-PROXY = f"{"https://thepuzo-ogm3.hf.space"}/proxy/hls/manifest.m3u8?api_password={Sentenia}&d="
+PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
 USR = "TheFoin"
 REPO = "OGM2"
